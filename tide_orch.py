@@ -12,7 +12,7 @@ tide_dir = '/home/shenq/tide' # dir of tide
 deidConfigFile=f'{tide_dir}/src/main/resources/deid_config_omop_genrep.yaml' # deidConfigFIle
 
 chunksize = 10000 # num of row for each chunk
-jvm_memory = '16g' # memory allocated to java virtual machine
+jvm_memory = '4g' # memory allocated to java virtual machine
 #####################################################################################################################
 
 
